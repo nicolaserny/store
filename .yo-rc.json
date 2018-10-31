@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "MjJiODkwNGVlN2I0NzE4MzkzZmI5MzBiMGIxN2FkMDA2NzBkMmE0NTZhN2I5ZWI0ZGUxOGQxNmJhMWU2ODYwZDdjYjk3ODk2MzRjOWIyOTg2MDE5MzM3NjBmNjAyMTNmNjk5NTBmYTRjNDVkNDliMzNhNTQ2NDJhM2NiYzU1NGY="
+  },
+  "git-provider": "GitHub",
+  "git-company": "nicolaserny",
+  "repository-name": "store"
+}
